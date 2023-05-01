@@ -25,3 +25,5 @@ const Sdata = [
         links: "https://www.netflix.com/bd/title/80997687"
     }
 ]
+
+export default Sdata;
