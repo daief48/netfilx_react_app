@@ -10,7 +10,7 @@ const Sdata = [
         id:2,
         sname: "Extra Curricular",
         imgscr: "https://resizing.flixster.com/9_UFhNH0nIQR71Jn-w94AJZbDFI=/ems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vUlRUVjcwMjA0Ny53ZWJw",
-        title: "Netflix Original Series",
+        title: "Amazon Original Series",
         links: "https://www.netflix.com/bd/title/80990668"
     },
     {
@@ -25,7 +25,7 @@ const Sdata = [
         id:4,
         sname: "Dracula",
         imgscr: "https://m.media-amazon.com/images/M/MV5BZDU3NWYwYjEtNmNmNy00NDJlLWI0MWItMjkzZDJmMTViZmJkXkEyXkFqcGdeQXVyMjM0ODM1NTE@._V1_.jpg",
-        title: "Netflix Original Series",
+        title: "Amazon Original Series",
         links: "https://www.netflix.com/bd/title/80997687"
     }
 ]
