@@ -12,6 +12,7 @@ ReactDOM.render(
       console.log(val)
       return (
         <Card
+          key={val.id}
           imgsrc={val.imgscr}
           title={val.title}
           sname={val.sname}
